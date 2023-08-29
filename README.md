@@ -10,6 +10,13 @@
     - [ii. POA Network with Privacy <a name="poa-network-privacy"></a>](#ii-poa-network-with-privacy-)
     - [iii. Smart Contracts & DApps <a name="poa-network-dapps"></a>](#iii-smart-contracts--dapps-)
                   
+![image](https://github.com/hassanalobady/Besu-test-network/assets/19050553/ae3fe299-4a65-4177-912b-ccc169d966fa)
+
+
+![Capture](https://github.com/hassanalobady/Besu-test-network/assets/19050553/df582a3b-d871-4092-9650-0e2296dd346f)
+
+
+![node](https://github.com/hassanalobady/Besu-test-network/assets/19050553/979b22fe-836a-4dc3-9d54-9da9e037d0c7)
 
 ## Prerequisites
 
